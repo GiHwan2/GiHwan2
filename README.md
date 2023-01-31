@@ -1,28 +1,30 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=007acc&text=Gihwan-Kang&height=150&animation=fadeIn&fontAlignY=35&fontSize=40)
 
 <div align="center">
-  <h3>🛠 Tech Stack 🛠</h3>
-  <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
-  <img alt="CSS" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
-  <img alt="JAVASCRIPT" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
-  <img alt="TYPESCRIPT" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white"/>
+  <h3>📚 Tech Stack 📚</h3>
+  <img alt="Python" src ="https://img.shields.io/badge/python-3776AB?&style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="JAVA" src ="https://img.shields.io/badge/java-007396?&style=for-the-badge&logo=java&logoColor=white"/>
   <br/>
-  <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
-  <img alt="Next" src ="https://img.shields.io/badge/Next-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white"/>
-  <img alt="Redux" src ="https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white"/>
-  <img alt="Recoil" src ="https://img.shields.io/badge/Recoil-0075EB.svg?&style=for-the-badge&logo=Revolut&logoColor=white"/>
-  <img alt="ReactQuery" src ="https://img.shields.io/badge/ReactQuery-FF4154.svg?&style=for-the-badge&logo=ReactQuery&logoColor=white"/>
+  <img alt="ORACLE" src ="https://img.shields.io/badge/oracle-F80000?&style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img alt="MongoDB" src ="https://img.shields.io/badge/mongoDB-47A248?&style=for-the-badge&logo=MongoDB&logoColor=white"/>
+  <img alt="Elasticsearch" src ="https://img.shields.io/badge/Elasticsearch-005571?&style=for-the-badge&logo=Elasticsearch&logoColor=white"/>
+  <img alt="Redis" src ="https://img.shields.io/badge/Redis-DC382D?&style=for-the-badge&logo=Redis&logoColor=white"/>
   <br/>
-  <img alt="Webpack" src ="https://img.shields.io/badge/Webpack-8DD6F9.svg?&style=for-the-badge&logo=Webpack&logoColor=white"/>
-  <img alt="Babel" src ="https://img.shields.io/badge/Babel-F9DC3E.svg?&style=for-the-badge&logo=Babel&logoColor=white"/>
-  <img alt="Jest" src ="https://img.shields.io/badge/Jest-C21325.svg?&style=for-the-badge&logo=Jest&logoColor=white"/>
+  <img alt="Django" src ="https://img.shields.io/badge/django-092E20?&style=for-the-badge&logo=django&logoColor=white"/>
+  <img alt="Flask" src ="https://img.shields.io/badge/flask-000000?&style=for-the-badge&logo=flask&logoColor=white"/>
   <br/>
-  <img alt="SASS" src ="https://img.shields.io/badge/Sass-CC6699.svg?&style=for-the-badge&logo=Sass&logoColor=white"/>
-  <img alt="StyledComponents" src ="https://img.shields.io/badge/StyledComponents-DB7093.svg?&style=for-the-badge&logo=StyledComponents&logoColor=white"/>
+  <img alt="RabbitMQ" src ="https://img.shields.io/badge/RabbitMQ-FF6600?&style=for-the-badge&logo=RabbitMQ&logoColor=white"/>
+  <img alt="Celery" src ="https://img.shields.io/badge/Celery-37814A?&style=for-the-badge&logo=Celery&logoColor=white"/>
   <br/>
   <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>
   <img alt="GithubActions" src ="https://img.shields.io/badge/GithubActions-2088FF.svg?&style=for-the-badge&logo=GithubActions&logoColor=white"/>
   <img alt="AmazonAWS" src ="https://img.shields.io/badge/AWS-FF9900.svg?&style=for-the-badge&logo=AmazonAWS&logoColor=white"/>
+  <img alt="Nginx" src ="https://img.shields.io/badge/NGINX-009639?&style=for-the-badge&logo=NGINX&logoColor=white"/>
+  <br/>
+  <img alt="Grafana" src ="https://img.shields.io/badge/Grafana-F46800?&style=for-the-badge&logo=Grafana&logoColor=white"/>
+  <img alt="Prometheus" src ="https://img.shields.io/badge/Prometheus-E6522C?&style=for-the-badge&logo=AmazonAWS&logoColor=white"/>
+  <img alt="Elastic-Stack" src ="https://img.shields.io/badge/Elastic_Stack-005571?&style=for-the-badge&logo=Elastic-Stack&logoColor=white"/>
+  
   <br/>
   <br/>
   <br/>
