@@ -4,6 +4,7 @@
   <h3>📚 Tech Stack 📚</h3>
   <img alt="Python" src ="https://img.shields.io/badge/python-3776AB?&style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="JAVA" src ="https://img.shields.io/badge/java-007396?&style=for-the-badge&logo=java&logoColor=white"/>
+  <img alt="Swift" src ="https://img.shields.io/badge/Swift-F05138?&style=for-the-badge&logo=Swift&logoColor=white"/>
   <br/>
   <img alt="ORACLE" src ="https://img.shields.io/badge/oracle-F80000?&style=for-the-badge&logo=oracle&logoColor=white"/>
   <img alt="MongoDB" src ="https://img.shields.io/badge/mongoDB-47A248?&style=for-the-badge&logo=MongoDB&logoColor=white"/>
