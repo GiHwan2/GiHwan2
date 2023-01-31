@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=Gihwan-Kang&height=150&animation=fadeIn&fontAlignY=35&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Gihwan's Profile&height=150&animation=fadeIn&fontAlignY=35&fontSize=40)
 
 <div align="center">
   <h3>📚 Tech Stack 📚</h3>
