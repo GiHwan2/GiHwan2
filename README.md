@@ -8,12 +8,14 @@
   <img alt="Swift" src ="https://img.shields.io/badge/Swift-F05138?&style=for-the-badge&logo=Swift&logoColor=white"/>
   <h4>:open_file_folder: Database :open_file_folder:</h4>
   <br/>
+  <img alt="MySQL" src ="https://img.shields.io/badge/mysql-4479A1?&style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="ORACLE" src ="https://img.shields.io/badge/oracle-F80000?&style=for-the-badge&logo=oracle&logoColor=white"/>
   <img alt="MongoDB" src ="https://img.shields.io/badge/mongoDB-47A248?&style=for-the-badge&logo=MongoDB&logoColor=white"/>
   <img alt="Elasticsearch" src ="https://img.shields.io/badge/Elasticsearch-005571?&style=for-the-badge&logo=Elasticsearch&logoColor=white"/>
   <img alt="Redis" src ="https://img.shields.io/badge/Redis-DC382D?&style=for-the-badge&logo=Redis&logoColor=white"/>
   <h4>:low_brightness: Framework :low_brightness:</h4>
   <br/>
+  <img alt="Spring" src ="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
   <img alt="Django" src ="https://img.shields.io/badge/django-092E20?&style=for-the-badge&logo=django&logoColor=white"/>
   <img alt="Flask" src ="https://img.shields.io/badge/flask-000000?&style=for-the-badge&logo=flask&logoColor=white"/>
   <h4>:mag: Other :mag:</h4>
