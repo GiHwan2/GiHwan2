@@ -5,11 +5,9 @@
   <h4>:pencil: Language :pencil:</h4>
   <img alt="Python" src ="https://img.shields.io/badge/python-3776AB?&style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="JAVA" src ="https://img.shields.io/badge/java-007396?&style=for-the-badge&logo=java&logoColor=white"/>
-  <img alt="Swift" src ="https://img.shields.io/badge/Swift-F05138?&style=for-the-badge&logo=Swift&logoColor=white"/>
   <h4>:open_file_folder: Database :open_file_folder:</h4>
   <br/>
   <img alt="MySQL" src ="https://img.shields.io/badge/mysql-4479A1?&style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="ORACLE" src ="https://img.shields.io/badge/oracle-F80000?&style=for-the-badge&logo=oracle&logoColor=white"/>
   <img alt="MongoDB" src ="https://img.shields.io/badge/mongoDB-47A248?&style=for-the-badge&logo=MongoDB&logoColor=white"/>
   <img alt="Elasticsearch" src ="https://img.shields.io/badge/Elasticsearch-005571?&style=for-the-badge&logo=Elasticsearch&logoColor=white"/>
   <img alt="Redis" src ="https://img.shields.io/badge/Redis-DC382D?&style=for-the-badge&logo=Redis&logoColor=white"/>
