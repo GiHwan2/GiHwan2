@@ -9,7 +9,6 @@
   <br/>
   <img alt="MySQL" src ="https://img.shields.io/badge/mysql-4479A1?&style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="MongoDB" src ="https://img.shields.io/badge/mongoDB-47A248?&style=for-the-badge&logo=MongoDB&logoColor=white"/>
-  <img alt="Elasticsearch" src ="https://img.shields.io/badge/Elasticsearch-005571?&style=for-the-badge&logo=Elasticsearch&logoColor=white"/>
   <img alt="Redis" src ="https://img.shields.io/badge/Redis-DC382D?&style=for-the-badge&logo=Redis&logoColor=white"/>
   <h4>:low_brightness: Framework :low_brightness:</h4>
   <br/>
